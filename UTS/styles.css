@@ -1,0 +1,51 @@
+body {
+    font-family: geneva;
+    font-size: 12pt;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0a0d0a;
+    color: white;
+    padding: 50px;
+}
+ 
+h2{
+	font-family: 'tulisan_keren';
+	font-size: 18pt;
+    text-align: center;
+	font-variant: inherit;
+}
+ 
+p{
+	font-family: courier;
+    font-size: 12pt;
+    text-align: left;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+section {
+    padding: 8px;
+    font: roboto;
+    text-align: left;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #69c3f4;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: right;
+    padding: 20px;
+}
